@@ -8,7 +8,7 @@ import sqlite3
 language = ['Українська', 'Русский', 'English']
 digits = '0123456789 +-'
 
-bot = Bot(token='2025283165:AAGh1D_nL0D3IuxWsa3zAb56Y9zr7rpvtaQ')
+bot = Bot(token='')
 dp = Dispatcher(bot)
 
 meeting_date = ["day", "start", "end"]
